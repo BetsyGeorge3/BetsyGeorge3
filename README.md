@@ -129,7 +129,15 @@ class BetsyGeorge:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BetsyGeorge3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+![AUC 0.99](https://img.shields.io/badge/%F0%9F%8F%85%20AUC%200.99-Healthcare%20AI-70A5FD?style=for-the-badge)
+![Speech 100%](https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F%20100%25%20Accuracy-Speech%20Emotion%20AI-BF91F3?style=for-the-badge)
+![35% Downtime](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%2035%25%20Downtime%20Cut-IoT%20ML%20Platform-38BDAE?style=for-the-badge)
+![50K NLP](https://img.shields.io/badge/%F0%9F%93%8A%2050K%2B%20Reviews-NLP%20Pipeline-FF6B6B?style=for-the-badge)
+![2 Papers](https://img.shields.io/badge/%F0%9F%93%84%202%20Research%20Papers-Published-FFD700?style=for-the-badge&labelColor=0d1117)
+![96% Cancer](https://img.shields.io/badge/%F0%9F%94%AC%2096%25%20Accuracy-Cancer%20Detection-4CAF50?style=for-the-badge)
+![2.5% WER](https://img.shields.io/badge/%F0%9F%8E%A4%202.5%25%20WER-Voice%20Cloning-FF9800?style=for-the-badge)
+
 </div>
 
 ---
