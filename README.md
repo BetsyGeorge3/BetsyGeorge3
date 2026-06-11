@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+ML+%2F+Generative+AI+Engineer+%F0%9F%A4%96;RAG+Systems+%7C+LLM+Fine-Tuning+%7C+MLOps+%E2%9A%99%EF%B8%8F;LangChain+%7C+PyTorch+%7C+FastAPI+%7C+AWS+%2F+Azure+%E2%98%81%EF%B8%8F;Building+Production-Grade+AI+for+the+UAE+%F0%9F%87%A6%F0%9F%87%AA"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+ML+%2F+Generative+AI+Engineer+%F0%9F%A4%96;RAG+Systems+%7C+LLM+Fine-Tuning+%7C+MLOps+%E2%9A%99%EF%B8%8F;LangChain+%7C+PyTorch+%7C+FastAPI+%7C+AWS+%2F+Azure+%E2%98%81%EF%B8%8F;Building+Production-Grade+AI+for+the+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+ML+%2F+Generative+AI+Engineer+%F0%9F%A4%96;RAG+Systems+%7C+LLM+Fine-Tuning+%7C+MLOps+%E2%9A%99%EF%B8%8F;LangChain+%7C+PyTorch+%7C+FastAPI+%7C+AWS+%2F+Azure+%E2%98%81%EF%B8%8F;Building+Production-Grade+AI+for+the+UAE+%F0%9F%87%A6%F0%9F%87%AA"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+ML+%2F+Generative+AI+Engineer+%F0%9F%A4%96;RAG+Systems+%7C+LLM+Fine-Tuning+%7C+MLOps+%E2%9A%99%EF%B8%8F; LangChain+%7C+PyTorch+%7C+FastAPI+%7C+AWS+%2F+Azure+%E2%98%81%EF%B8%8F;Building+Production-Grade+AI+for+the+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
