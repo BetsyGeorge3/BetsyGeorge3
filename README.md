@@ -197,8 +197,8 @@ class BetsyGeorge:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| **🤖 [AI Document Assistant](https://github.com/betsygeorge)** — *Production LLM + RAG System* | `Python` `LangChain` `LCEL` `FAISS` `Chroma` `FastAPI` `PostgreSQL` `Docker` `AWS EC2` `PyTorch` `LoRA/qLoRA` `Ragas` | End-to-end RAG pipeline with adaptive chunking, multi-stage contextual retrieval + re-ranking, LoRA fine-tuning for domain adaptation; Dockerised & deployed on AWS EC2 GPU infrastructure with automated test coverage & monitoring. |
-| **⚙️ [IoT Predictive Maintenance Platform](https://github.com/betsygeorge)** — *Edge AI & MLOps* | `Python` `PyTorch` `Scikit-Learn` `AWS` `Docker` `CI/CD` `Edge Hardware Inference` `MLOps` | Sensor ETL pipelines feeding anomaly detection models on edge hardware; CI/CD + model versioning achieving **35% reduction in equipment downtime**. |
+| **🤖 [AI Document Assistant](https://github.com/BetsyGeorge3)** — *Production LLM + RAG System* | `Python` `LangChain` `LCEL` `FAISS` `Chroma` `FastAPI` `PostgreSQL` `Docker` `AWS EC2` `PyTorch` `LoRA/qLoRA` `Ragas` | End-to-end RAG pipeline with adaptive chunking, multi-stage contextual retrieval + re-ranking, LoRA fine-tuning for domain adaptation; Dockerised & deployed on AWS EC2 GPU infrastructure with automated test coverage & monitoring. |
+| **⚙️ [IoT Predictive Maintenance Platform](https://github.com/BetsyGeorge3)** — *Edge AI & MLOps* | `Python` `PyTorch` `Scikit-Learn` `AWS` `Docker` `CI/CD` `Edge Hardware Inference` `MLOps` | Sensor ETL pipelines feeding anomaly detection models on edge hardware; CI/CD + model versioning achieving **35% reduction in equipment downtime**. |
 | **🏥 Healthcare Predictive Models** — *Deep Learning for Clinical AI* | `Python` `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` | Heart disease & diabetes prediction models achieving **AUC up to 0.99** and **95% precision**; fully reproducible training and evaluation workflows. |
 
 </div>
